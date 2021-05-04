@@ -1,8 +1,14 @@
 {
     "name": "talon",
     "displayName": "Talon",
+    "publisher": "pokey",
     "description": "Extensions useful for talon",
-    "version": "0.0.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pokey/vscode-talon.git"
+    },
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.46.0"
     },
