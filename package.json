@@ -1,0 +1,15 @@
+{
+    "name": "talon",
+    "displayName": "Talon",
+    "description": "Extensions useful for talon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
