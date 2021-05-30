@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/pokey/vscode-talon.git"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.46.0"
     },
@@ -16,6 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "pokey.command-server"
+        "pokey.command-server",
+        "sleistner.vscode-fileutils"
     ]
 }
